@@ -3,3 +3,12 @@ git config --global user.name "username"
 git config --global user.email "useremail"
 
 git init => for initializing git in pwd
+
+git status => list all untracked files
+
+git add -A => adding all changes to staging area
+
+git commit -m "commit message"=> adding staged files to local repository
+
+git remote add luminar git remote add origin https://github.com/ayshasana786/gitbasic.git
+
