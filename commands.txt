@@ -13,3 +13,5 @@ git commit -m "commit message" =>adding staged files to local repository
 git remote add origin(point out this path-->name of path to identify the path again we do) https://github.com/ayshasana786/gitbasic.git
 
 git remote add luminar
+
+git remote -v  (to know that name if not remember or we can check exist remote name)
